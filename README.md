@@ -1,5 +1,6 @@
 ## Olá! Eu sou a Vitoria Gonçalves 👋
 
+- 💻 Desenvolvedora Mobile React Native
 - 🎓 Cursando Sistemas de Informação
 
  <div>
